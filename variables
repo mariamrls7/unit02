@@ -2,5 +2,12 @@ fun main() {
   val myAge = 33 // Int
   
   println(myAge)
+  
+  var name = "averageAge" // String
+  val myAge = 33 // Int
+  val myDouble = 31.5 // A Double
+  
+  println(name)
+  println(myAge)
+  println(myDouble)
 }
-
