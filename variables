@@ -1,0 +1,6 @@
+fun main() {
+  val myAge = 33 // Int
+  
+  println(myAge)
+}
+
