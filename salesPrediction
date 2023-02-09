@@ -1,0 +1,6 @@
+fun main() {
+	val percent = 0.62
+    val salesperyear = 4600000
+    val result = percent*salesperyear
+    println("$result")
+}
